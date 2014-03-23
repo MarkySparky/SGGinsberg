@@ -11,6 +11,7 @@ var app = {
     // A dropdown list might ask for the year of interest
     yearSelected: 2010,
 
+    //Define our bubble colors - last in array represents best mood
     bubbleColors : ["#e2e2e2", "#ddf", "#ccf", "#aaf", "#88f", "#77f", "#55f", "#44f", "#33f", "#11f", "#00f"],
 
    /**
