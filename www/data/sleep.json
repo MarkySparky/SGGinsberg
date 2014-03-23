@@ -1,0 +1,96 @@
+[{"timestamp":"04/01/2010 10:30:00","total_sleep":382.0,"deep_sleep":229.0,"rem_sleep":38.0,"light_sleep":115.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"12/01/2010 10:30:00","total_sleep":344.0,"deep_sleep":206.0,"rem_sleep":34.0,"light_sleep":103.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"20/01/2010 10:30:00","total_sleep":268.0,"deep_sleep":161.0,"rem_sleep":27.0,"light_sleep":80.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"28/01/2010 10:30:00","total_sleep":344.0,"deep_sleep":206.0,"rem_sleep":34.0,"light_sleep":103.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"08/01/2010 10:30:00","total_sleep":459.0,"deep_sleep":275.0,"rem_sleep":46.0,"light_sleep":138.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"16/01/2010 10:30:00","total_sleep":478.0,"deep_sleep":287.0,"rem_sleep":48.0,"light_sleep":143.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"24/01/2010 10:30:00","total_sleep":459.0,"deep_sleep":275.0,"rem_sleep":46.0,"light_sleep":138.0,"awake":0.0,"times_awoken":0}
+
+,{"timestamp":"01/02/2010 10:30:00","total_sleep":403.0,"deep_sleep":242.0,"rem_sleep":40.0,"light_sleep":121.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"09/02/2010 10:30:00","total_sleep":363.0,"deep_sleep":218.0,"rem_sleep":36.0,"light_sleep":109.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"17/02/2010 10:30:00","total_sleep":282.0,"deep_sleep":169.0,"rem_sleep":28.0,"light_sleep":85.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"04/02/2010 10:30:00","total_sleep":363.0,"deep_sleep":218.0,"rem_sleep":36.0,"light_sleep":109.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"19/02/2010 10:30:00","total_sleep":484.0,"deep_sleep":290.0,"rem_sleep":48.0,"light_sleep":145.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"27/02/2010 10:30:00","total_sleep":504.0,"deep_sleep":302.0,"rem_sleep":50.0,"light_sleep":151.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"28/02/2010 10:30:00","total_sleep":484.0,"deep_sleep":290.0,"rem_sleep":48.0,"light_sleep":145.0,"awake":0.0,"times_awoken":0}
+
+,{"timestamp":"01/03/2010 10:30:00","total_sleep":420.0,"deep_sleep":252.0,"rem_sleep":42.0,"light_sleep":126.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"09/03/2010 10:30:00","total_sleep":378.0,"deep_sleep":227.0,"rem_sleep":38.0,"light_sleep":113.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"17/03/2010 10:30:00","total_sleep":294.0,"deep_sleep":176.0,"rem_sleep":29.0,"light_sleep":88.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"04/03/2010 10:30:00","total_sleep":378.0,"deep_sleep":227.0,"rem_sleep":38.0,"light_sleep":113.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"19/03/2010 10:30:00","total_sleep":504.0,"deep_sleep":302.0,"rem_sleep":50.0,"light_sleep":151.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"27/03/2010 10:30:00","total_sleep":525.0,"deep_sleep":315.0,"rem_sleep":53.0,"light_sleep":158.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"28/03/2010 10:30:00","total_sleep":504.0,"deep_sleep":302.0,"rem_sleep":50.0,"light_sleep":151.0,"awake":0.0,"times_awoken":0}
+
+,{"timestamp":"05/04/2010 10:30:00","total_sleep":462.0,"deep_sleep":277.0,"rem_sleep":46.0,"light_sleep":139.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"13/04/2010 10:30:00","total_sleep":416.0,"deep_sleep":249.0,"rem_sleep":42.0,"light_sleep":125.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"21/04/2010 10:30:00","total_sleep":323.0,"deep_sleep":194.0,"rem_sleep":32.0,"light_sleep":97.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"08/04/2010 10:30:00","total_sleep":416.0,"deep_sleep":249.0,"rem_sleep":42.0,"light_sleep":125.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"09/04/2010 10:30:00","total_sleep":554.0,"deep_sleep":333.0,"rem_sleep":55.0,"light_sleep":166.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"17/04/2010 10:30:00","total_sleep":578.0,"deep_sleep":347.0,"rem_sleep":58.0,"light_sleep":173.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"25/04/2010 10:30:00","total_sleep":554.0,"deep_sleep":333.0,"rem_sleep":55.0,"light_sleep":166.0,"awake":0.0,"times_awoken":0}
+
+,{"timestamp":"03/05/2010 10:30:00","total_sleep":420.0,"deep_sleep":252.0,"rem_sleep":42.0,"light_sleep":126.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"11/05/2010 10:30:00","total_sleep":378.0,"deep_sleep":227.0,"rem_sleep":38.0,"light_sleep":113.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"19/05/2010 10:30:00","total_sleep":294.0,"deep_sleep":176.0,"rem_sleep":29.0,"light_sleep":88.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"27/05/2010 10:30:00","total_sleep":378.0,"deep_sleep":227.0,"rem_sleep":38.0,"light_sleep":113.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"07/05/2010 10:30:00","total_sleep":504.0,"deep_sleep":302.0,"rem_sleep":50.0,"light_sleep":151.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"15/05/2010 10:30:00","total_sleep":525.0,"deep_sleep":315.0,"rem_sleep":53.0,"light_sleep":158.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"23/05/2010 10:30:00","total_sleep":504.0,"deep_sleep":302.0,"rem_sleep":50.0,"light_sleep":151.0,"awake":0.0,"times_awoken":0}
+
+,{"timestamp":"07/06/2010 10:30:00","total_sleep":483.0,"deep_sleep":290.0,"rem_sleep":48.0,"light_sleep":145.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"15/06/2010 10:30:00","total_sleep":435.0,"deep_sleep":261.0,"rem_sleep":43.0,"light_sleep":130.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"23/06/2010 10:30:00","total_sleep":338.0,"deep_sleep":203.0,"rem_sleep":34.0,"light_sleep":101.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"24/06/2010 10:30:00","total_sleep":435.0,"deep_sleep":261.0,"rem_sleep":43.0,"light_sleep":130.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"25/06/2010 10:30:00","total_sleep":560.0,"deep_sleep":336.0,"rem_sleep":56.0,"light_sleep":168.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"19/06/2010 10:30:00","total_sleep":604.0,"deep_sleep":362.0,"rem_sleep":60.0,"light_sleep":181.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"13/06/2010 10:30:00","total_sleep":580.0,"deep_sleep":348.0,"rem_sleep":58.0,"light_sleep":174.0,"awake":0.0,"times_awoken":0}
+
+,{"timestamp":"05/07/2010 10:30:00","total_sleep":462.0,"deep_sleep":277.0,"rem_sleep":46.0,"light_sleep":139.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"13/07/2010 10:30:00","total_sleep":416.0,"deep_sleep":249.0,"rem_sleep":42.0,"light_sleep":125.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"21/07/2010 10:30:00","total_sleep":323.0,"deep_sleep":194.0,"rem_sleep":32.0,"light_sleep":97.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"08/07/2010 10:30:00","total_sleep":416.0,"deep_sleep":249.0,"rem_sleep":42.0,"light_sleep":125.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"09/07/2010 10:30:00","total_sleep":554.0,"deep_sleep":333.0,"rem_sleep":55.0,"light_sleep":166.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"17/07/2010 10:30:00","total_sleep":578.0,"deep_sleep":347.0,"rem_sleep":58.0,"light_sleep":173.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"25/07/2010 10:30:00","total_sleep":554.0,"deep_sleep":333.0,"rem_sleep":55.0,"light_sleep":166.0,"awake":0.0,"times_awoken":0}
+
+,{"timestamp":"02/08/2010 10:30:00","total_sleep":449.0,"deep_sleep":270.0,"rem_sleep":45.0,"light_sleep":135.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"10/08/2010 10:30:00","total_sleep":404.0,"deep_sleep":243.0,"rem_sleep":40.0,"light_sleep":121.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"18/08/2010 10:30:00","total_sleep":315.0,"deep_sleep":189.0,"rem_sleep":31.0,"light_sleep":94.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"26/08/2010 10:30:00","total_sleep":404.0,"deep_sleep":243.0,"rem_sleep":40.0,"light_sleep":121.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"06/08/2010 10:30:00","total_sleep":539.0,"deep_sleep":324.0,"rem_sleep":54.0,"light_sleep":162.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"14/08/2010 10:30:00","total_sleep":562.0,"deep_sleep":337.0,"rem_sleep":56.0,"light_sleep":169.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"22/08/2010 10:30:00","total_sleep":539.0,"deep_sleep":324.0,"rem_sleep":54.0,"light_sleep":162.0,"awake":0.0,"times_awoken":0}
+
+,{"timestamp":"06/09/2010 10:30:00","total_sleep":445.0,"deep_sleep":267.0,"rem_sleep":45.0,"light_sleep":134.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"14/09/2010 10:30:00","total_sleep":401.0,"deep_sleep":240.0,"rem_sleep":40.0,"light_sleep":120.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"22/09/2010 10:30:00","total_sleep":312.0,"deep_sleep":187.0,"rem_sleep":31.0,"light_sleep":93.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"23/09/2010 10:30:00","total_sleep":401.0,"deep_sleep":240.0,"rem_sleep":40.0,"light_sleep":120.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"10/09/2010 10:30:00","total_sleep":534.0,"deep_sleep":321.0,"rem_sleep":53.0,"light_sleep":160.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"18/09/2010 10:30:00","total_sleep":557.0,"deep_sleep":334.0,"rem_sleep":56.0,"light_sleep":167.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"26/09/2010 10:30:00","total_sleep":534.0,"deep_sleep":321.0,"rem_sleep":53.0,"light_sleep":160.0,"awake":0.0,"times_awoken":0}
+
+,{"timestamp":"04/10/2010 10:30:00","total_sleep":420.0,"deep_sleep":252.0,"rem_sleep":42.0,"light_sleep":126.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"12/10/2010 10:30:00","total_sleep":378.0,"deep_sleep":227.0,"rem_sleep":38.0,"light_sleep":113.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"20/10/2010 10:30:00","total_sleep":294.0,"deep_sleep":176.0,"rem_sleep":29.0,"light_sleep":88.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"28/10/2010 10:30:00","total_sleep":378.0,"deep_sleep":227.0,"rem_sleep":38.0,"light_sleep":113.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"08/10/2010 10:30:00","total_sleep":504.0,"deep_sleep":302.0,"rem_sleep":50.0,"light_sleep":151.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"16/10/2010 10:30:00","total_sleep":525.0,"deep_sleep":315.0,"rem_sleep":53.0,"light_sleep":158.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"24/10/2010 10:30:00","total_sleep":504.0,"deep_sleep":302.0,"rem_sleep":50.0,"light_sleep":151.0,"awake":0.0,"times_awoken":0}
+
+,{"timestamp":"01/11/2010 10:30:00","total_sleep":399.0,"deep_sleep":239.0,"rem_sleep":40.0,"light_sleep":120.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"09/11/2010 10:30:00","total_sleep":359.0,"deep_sleep":215.0,"rem_sleep":36.0,"light_sleep":108.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"17/11/2010 10:30:00","total_sleep":279.0,"deep_sleep":168.0,"rem_sleep":28.0,"light_sleep":84.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"04/11/2010 10:30:00","total_sleep":359.0,"deep_sleep":215.0,"rem_sleep":36.0,"light_sleep":108.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"19/11/2010 10:30:00","total_sleep":479.0,"deep_sleep":287.0,"rem_sleep":48.0,"light_sleep":144.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"27/11/2010 10:30:00","total_sleep":499.0,"deep_sleep":299.0,"rem_sleep":50.0,"light_sleep":150.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"28/11/2010 10:30:00","total_sleep":479.0,"deep_sleep":287.0,"rem_sleep":48.0,"light_sleep":144.0,"awake":0.0,"times_awoken":0}
+
+,{"timestamp":"06/12/2010 10:30:00","total_sleep":386.0,"deep_sleep":232.0,"rem_sleep":39.0,"light_sleep":116.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"14/12/2010 10:30:00","total_sleep":348.0,"deep_sleep":209.0,"rem_sleep":35.0,"light_sleep":104.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"22/12/2010 10:30:00","total_sleep":270.0,"deep_sleep":162.0,"rem_sleep":27.0,"light_sleep":81.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"23/12/2010 10:30:00","total_sleep":348.0,"deep_sleep":209.0,"rem_sleep":35.0,"light_sleep":104.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"10/12/2010 10:30:00","total_sleep":464.0,"deep_sleep":278.0,"rem_sleep":46.0,"light_sleep":139.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"18/12/2010 10:30:00","total_sleep":483.0,"deep_sleep":290.0,"rem_sleep":48.0,"light_sleep":145.0,"awake":0.0,"times_awoken":0}
+,{"timestamp":"26/12/2010 10:30:00","total_sleep":464.0,"deep_sleep":278.0,"rem_sleep":46.0,"light_sleep":139.0,"awake":0.0,"times_awoken":0}
+]
