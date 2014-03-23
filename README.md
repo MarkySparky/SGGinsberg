@@ -1,5 +1,9 @@
 #Welcome to the ginsberg chart demo
 
+You can find a live version of this demo at
+
+http://www.blucel.co.uk/ginsberg/
+
 For this exercise, I wanted to build something a little different from a line / bar / area chart.
 
 I took inspiration from the github punchcard report, but added a colour dimension to represent mood.
@@ -11,15 +15,16 @@ Blue is the color of the sky and sea. It is often associated with depth and stab
 Blue is considered beneficial to the mind and body. It slows human metabolism and produces a calming effect. Blue is strongly associated with tranquility and calmness.
 
 The colours are accessed within the app object as
-**app.bubbleColor.colors**
+
+    app.bubbleColor.colors
 
 >To change the colours range to pinks at runtime you can use the Chrome console
 
-**app.bubbleColors = ["#ffe2e2", "#fdf", "#fcf", "#faf", "#f8f", "#f7f", "#f5f", "#f4f", "#f3f", "#f1f", "#f0f"];**
+    app.bubbleColors = ["#ffe2e2", "#fdf", "#fcf", "#faf", "#f8f", "#f7f", "#f5f", "#f4f", "#f3f", "#f1f", "#f0f"];
 
 Then run init again
 
-**app.init();**
+    app.init();
 
 I had some issues accessing the endpoints because of cors missing from the response headers and also a 406 due to the additional required request Accept header.
 I couldnt both get the 406 error cleared AND use jsonp to work around the lack of a cors response from the rest endpoints, as jsonp is just an on-the-fly inserted script tag with no place for request headers.
