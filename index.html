@@ -5,19 +5,17 @@
     <script src="js/libs/highcharts.js"></script>
     <script src="js/libs/highcharts-more.js"></script>
     <script src="js/libs/moment.min.js"></script>
-<!--
-    <script src="data/series1.json"></script>
-    <script src="data/series2.json"></script>
-    <script src="data/series3.json"></script>
--->
     <script src="js/app.js"></script>
     </head>
   <body>
     <h2> Does sleep duration affect mood? </h2>
     <h4> Which days of the week are your bad ones?</h4>
+
+    <!--Chart will go here-->
     <div id="chart"></div>
+
+    <!--an svg to show the legend-->
     <div id="legend">
-    
       <svg height="120" width="1000">
         <text x="0" y="55" fill="#333">Little sleep</text>
         <circle cx="100" cy="50" r="5" stroke="black" stroke-width="1" fill="none" />
@@ -26,7 +24,7 @@
         <circle cx="190" cy="50" r="20" stroke="black" stroke-width="1" fill="none" />
         <circle cx="240" cy="50" r="25" stroke="black" stroke-width="1" fill="none" />
         <text x="280" y="55" fill="#333">Lots of sleep</text>
-<!--"#e2e2e2", "#ddf", "#ccf", "#aaf", "#88f", "#77f", "#55f", "#44f", "#33f", "#11f", "#00f"-->
+
         <text x="600" y="55" fill="#333">Feeling low</text>
         <circle cx="700" cy="50" r="15" stroke="black" stroke-width="1" fill="#e2e2e2" />
         <circle cx="740" cy="50" r="15" stroke="black" stroke-width="1" fill="#ccf" />
@@ -35,6 +33,7 @@
         <circle cx="860" cy="50" r="15" stroke="black" stroke-width="1" fill="#11f" />
         <text x="880" y="55" fill="#333">Feeling good</text>
       </svg>
+      
     </div>
   </body>
 </html>

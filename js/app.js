@@ -11,13 +11,14 @@ var app = {
     // A dropdown list might ask for the year of interest
     yearSelected: 2010,
 
+    bubbleColors : ["#e2e2e2", "#ddf", "#ccf", "#aaf", "#88f", "#77f", "#55f", "#44f", "#33f", "#11f", "#00f"],
+
    /**
     * Given a value, it will return a RGBA value with a saturation between 0 and 1
     */
     bubbleColor: function getBubbleColor(value) {
-        var colors = ["#e2e2e2", "#ddf", "#ccf", "#aaf", "#88f", "#77f", "#55f", "#44f", "#33f", "#11f", "#00f"]
         var saturation = Math.round(Math.min(value || 0, 100) / 10);
-        return colors[saturation];
+        return app.bubbleColors[saturation];
     },
     
    /**
